@@ -13,6 +13,8 @@
 
 
 ### 如何实现？
+![2f3490a884d96a06d00bf21307f8ea7a](https://github.com/user-attachments/assets/0b30bfee-df73-4cb7-9873-750ce5f3e929)
+
 ![9be92bc7db26daed2880716e4cb17c26](https://github.com/user-attachments/assets/d760ad18-5aa9-4deb-9fe9-1bdc4b9451b2)
 
 ### 例子视频
